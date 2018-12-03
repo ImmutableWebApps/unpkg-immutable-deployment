@@ -18,7 +18,7 @@ Any published changes to this HTML is an atomic deployment of the Immutable Web 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- versioned static assets -->
-    <link rel="icon" type="image/x-icon" href="https://unpkg.com/@immutablewebapps/unpkg-immutable-example@0.0.5/dist/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://immutablewebapps.org/icons/favicon.ico">
     <link rel="stylesheet" href="https://unpkg.com/@immutablewebapps/unpkg-immutable-example@0.0.5/dist/styles.css">
 
     <!-- environment variables -->
